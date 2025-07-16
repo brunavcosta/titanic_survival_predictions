@@ -50,11 +50,6 @@ Clone the repo:
 git clone https://github.com/yourusername/titanic-tf-model.git
 cd titanic-tf-model
 ```
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
 
 Run training:
 ```bash
