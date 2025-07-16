@@ -1,6 +1,8 @@
 # 🚢 Titanic Survival Prediction with TensorFlow
 
 This project uses a neural network model built with TensorFlow/Keras to predict survival on the **Titanic** dataset — a classic problem in binary classification from the [Kaggle Titanic Challenge](https://www.kaggle.com/c/titanic).
+This project was giving by the Course Machine Learning with Python by FreeCodeAcademy.
+
 
 ---
 
