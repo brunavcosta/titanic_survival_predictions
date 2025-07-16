@@ -36,7 +36,7 @@ model = tf.keras.Sequential([
 - Dropout: Prevents overfitting
 
 - Output: Sigmoid activation for binary classification
-- 
+  
 🛠️ Tools & Technologies
 - Python
 - TensorFlow / Keras
