@@ -47,14 +47,12 @@ model = tf.keras.Sequential([
 Clone the repo:
 
 ```bash
-Copy code
 git clone https://github.com/yourusername/titanic-tf-model.git
 cd titanic-tf-model
 ```
 Install dependencies:
 
 ```bash
-Copy code
 pip install -r requirements.txt
 ```
 
